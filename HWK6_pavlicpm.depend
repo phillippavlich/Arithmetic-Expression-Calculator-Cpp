@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1450051403 source:c:\users\phil\workspace\hwk6_pavlicpm\addition.cpp
+	"Addition.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
+1450051379 c:\users\phil\workspace\hwk6_pavlicpm\addition.h
+	<string>
+
+1450051844 source:c:\users\phil\workspace\hwk6_pavlicpm\arithmeticexpression.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+	<iomanip>
+	"ArithmeticExpression.h"
+	"Multiplication.h"
+	"Addition.h"
+	"Subtraction.h"
+	"Division.h"
+
+1450050926 c:\users\phil\workspace\hwk6_pavlicpm\arithmeticexpression.h
+	<string>
+
+1450051071 c:\users\phil\workspace\hwk6_pavlicpm\multiplication.h
+	<string>
+
+1450051165 c:\users\phil\workspace\hwk6_pavlicpm\subtraction.h
+	<string>
+
+1450051260 c:\users\phil\workspace\hwk6_pavlicpm\division.h
+	<string>
+
+1450051316 source:c:\users\phil\workspace\hwk6_pavlicpm\division.cpp
+	"Division.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
+1450050817 source:c:\users\phil\workspace\hwk6_pavlicpm\expression.cpp
+	"Expression.h"
+	<string>
+
+1450050848 c:\users\phil\workspace\hwk6_pavlicpm\expression.h
+	<stdio.h>
+
+1450052225 source:c:\users\phil\workspace\hwk6_pavlicpm\main.cpp
+	"ArithmeticExpression.h"
+	"Multiplication.h"
+	"Addition.h"
+	"Subtraction.h"
+	"Division.h"
+	<iostream>
+	<sstream>
+	<cmath>
+	<iomanip>
+	<cstdlib>
+
+1450051105 source:c:\users\phil\workspace\hwk6_pavlicpm\multiplication.cpp
+	"Multiplication.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
+1450051195 source:c:\users\phil\workspace\hwk6_pavlicpm\subtraction.cpp
+	"Subtraction.h"
+	<iostream>
+	<string>
+	<cstdlib>
+	<sstream>
+
